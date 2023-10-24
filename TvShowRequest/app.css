@@ -1,0 +1,43 @@
+body {
+    background-color: black !important;
+}
+.h1 h1 {
+    text-align: center;
+    color: #8BC6EC;
+}
+
+#contain {
+    margin: 0 auto;
+}
+
+#contain form input {
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+#submit {
+    margin-left: 10px;
+}
+
+#contain button {
+    background-color: #8BC6EC;
+    background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+}
+.mainPoster{
+    display: flex;
+    justify-content: center;
+}
+
+.mainPoster #poster {
+    text-align: center;
+}
+
+.mainPoster #poster img {
+    margin: 0 30px 20px 30px;
+}
+
+.mainPoster #poster p {
+    font-size: 20px;
+    color: #9599E2;
+}

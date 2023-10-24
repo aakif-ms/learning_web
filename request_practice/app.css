@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&family=Tilt+Neon&display=swap');
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background: #A1FFCE;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FAFFD1, #A1FFCE);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FAFFD1, #A1FFCE);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+    padding-bottom: 30px;
+    font-family: 'Tilt Neon', sans-serif;
+}
+
+button {
+    border-radius: 10px;
+    color: white;
+    background-color: #a71b39;
+}
+
+ul {
+    font-family: 'Roboto', sans-serif;
+}
+
+li {
+    font-size: 20px;
+    font-family: 'Tilt Neon', sans-serif;
+}
